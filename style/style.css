@@ -31,7 +31,7 @@ a{
 }
 
 /* main */
-.foto_pagina{
+p{
     margin: 20px 0 20px;    
 }
 
@@ -45,6 +45,7 @@ ul{
 /* Layout tabella */
 table{
     border-spacing: 0;
+   
 }
 thead{
     background-color: rgb(0, 132, 255);
