@@ -3,6 +3,7 @@
     margin: 0;
 }
 
+/* header */
 .container{
     max-width: 1080px;
     margin: 0 auto;
@@ -28,3 +29,9 @@ address{
 a{
     text-decoration: none;
 }
+
+/* main */
+.foto_pagina{
+    margin: 20px 0 20px;    
+}
+
