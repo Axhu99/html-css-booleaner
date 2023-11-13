@@ -42,3 +42,23 @@ ul{
     margin: 20px 0 20px ;
     padding-left: 15px;
 }
+/* Layout tabella */
+table{
+    border-spacing: 0;
+}
+thead{
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
+th{
+    text-align: left;
+    width: 360px;
+    
+}
+.back_aqua{
+   background-color: rgb(0, 217, 255);
+}
+
+.back_white{
+    background-color: white;
+}
