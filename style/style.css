@@ -63,3 +63,34 @@ th{
 .back_white{
     background-color: white;
 }
+
+/* footer */
+
+h2{
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.other_topics{
+    height: 200px;
+    width: 300px;
+    background-size: contain;
+    background-image: url(../img/monitor.jpg);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.other_link{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.other_topics2{
+    height: 200px;
+    width: 300px;
+    background-size: contain;
+    background-image: url(../img/graph.jpg);
+    padding: 20px;
+}
