@@ -20,3 +20,11 @@
    height: 50px;
    padding: 25px 0 25px;
 }
+address{
+    font-style: normal;
+    color: #666;
+}
+
+a{
+    text-decoration: none;
+}
